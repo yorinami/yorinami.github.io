@@ -223,17 +223,27 @@ background-color: #c9dce0;
   background-color: #dadada;
 }
 
+.osusume .text1{background-color: rgba(0,0,0,0.4);
+color: #ffffff;
+display: block;
+width: 100%;
+text-align: center;
+bottom: 160px;
+margin: 0;
+padding: 0;
+position: absolute;
 
+}
 .osusume .text{
   background-color: rgba(0,0,0,0.4);
   color: #ffffff;
   display: block;
   width: 100%;
   text-align: center;
-  bottom: 1px;
+  bottom: 5px;
   margin: 0;
   padding: 0;
-  position: relative;
+  position: absolute;
 }
 
 /*コピーライトー*/
