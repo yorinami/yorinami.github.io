@@ -216,11 +216,14 @@ background-color: #c9dce0;
 .osusume img{
   width: 100%;
 }
+.osusume li{
+  margin-top: 2px;
+}
 .osusume li:hover{
-  background-color: #5937d4;
+  background-color: #dadada;
 }
 .osusume .text1{
-  background-color: rgba(0,0,0,0.5);
+
   color: #666666;
   display: block;
   width: 100%;
@@ -237,7 +240,7 @@ background-color: #c9dce0;
   display: block;
   width: 100%;
   text-align: center;
-  bottom: 0px;
+  bottom: 1px;
   margin: 0;
   padding: 0;
   position: relative;
